@@ -27,9 +27,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Index-23227&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-1z8wxb30t-team-dobby.vercel.app/api?username=Index-23227&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Index-23227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-1z8wxb30t-team-dobby.vercel.app/api/top-langs/?username=Index-23227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
