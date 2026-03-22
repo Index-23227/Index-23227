@@ -7,6 +7,7 @@
 Interested in LLM-based AI agents — reasoning, tool use, and interaction with the real world.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gudwls5789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80-%ED%98%95%EC%A7%84-4a2703324/)
 [![Solved.ac](https://img.shields.io/badge/solved.ac-Platinum%204-blueviolet?style=flat-square)](https://solved.ac/gudwls5789/)
 ![Visitors](https://komarev.com/ghpvc/?username=Index-23227&style=flat-square&color=58a6ff)
 
