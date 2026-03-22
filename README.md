@@ -4,7 +4,7 @@
 
 **AI Researcher / Engineer**
 
-Passionate about building intelligent systems — from deep learning to scalable ML pipelines.
+Interested in LLM-based AI agents — reasoning, tool use, and interaction with the real world.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gudwls5789@gmail.com)
 [![Solved.ac](https://img.shields.io/badge/solved.ac-Platinum%204-blueviolet?style=flat-square)](https://solved.ac/gudwls5789/)
