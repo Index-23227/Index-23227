@@ -8,6 +8,7 @@ Interested in LLM-based AI agents — reasoning, tool use, and interaction with 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gudwls5789@gmail.com)
 [![Solved.ac](https://img.shields.io/badge/solved.ac-Platinum%204-blueviolet?style=flat-square)](https://solved.ac/gudwls5789/)
+![Visitors](https://komarev.com/ghpvc/?username=Index-23227&style=flat-square&color=58a6ff)
 
 </div>
 
@@ -44,6 +45,10 @@ Interested in LLM-based AI agents — reasoning, tool use, and interaction with 
 <div align="center">
   <img src="https://github-readme-stats-wine-omega-mufdgvkfsc.vercel.app/api?username=Index-23227&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
   <img src="https://github-readme-stats-wine-omega-mufdgvkfsc.vercel.app/api/top-langs/?username=Index-23227&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Index-23227&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
 ---
