@@ -7,6 +7,7 @@
 Interested in LLM-based AI agents — reasoning, tool use, and interaction with the real world.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gudwls5789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80-%ED%98%95%EC%A7%84-4a2703324/)
 [![Solved.ac](https://img.shields.io/badge/solved.ac-Platinum%204-blueviolet?style=flat-square)](https://solved.ac/gudwls5789/)
 ![Visitors](https://komarev.com/ghpvc/?username=Index-23227&style=flat-square&color=58a6ff)
 
@@ -40,6 +41,13 @@ Interested in LLM-based AI agents — reasoning, tool use, and interaction with 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+### Publications
+
+- W. Koh, W. Oh, S. Kim, S. Shin, **H. Kim**, J. Jang, J. Lee, S.-Y. Yun, "FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL," *ICLR 2025*. [\[paper\]](https://arxiv.org/abs/2410.15876)
+- W. Koh, W. Oh, J. Jang, M. Lee, **H. Kim**, A. Y. Kim, J. Kim, J. Lee, T. Kim, S.-Y. Yun, "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners," *NeurIPS 2025*. [\[paper\]](https://arxiv.org/abs/2505.16322)
 
 ---
 
