@@ -48,16 +48,6 @@ Interested in LLM-based AI agents — reasoning, tool use, and interaction with 
 
 ---
 
-### Problem Solving
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwls5789)](https://solved.ac/gudwls5789/)
-
-</div>
-
----
-
 ### Git Animals
 
 <div align="center">
