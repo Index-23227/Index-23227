@@ -46,7 +46,7 @@ Interested in LLM-based AI agents — reasoning, tool use, and interaction with 
 ### Publications
 
 - W. Koh, W. Oh, S. Kim, S. Shin, **H. Kim**, J. Jang, J. Lee, S.-Y. Yun, "FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL," *ICLR 2025*. [\[paper\]](https://arxiv.org/abs/2410.15876)
-- W. Koh, W. Oh, J. Jang, M. Lee, **H. Kim**, A. Y. Kim, J. Kim, J. Lee, T. Kim, S.-Y. Yun, "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners," *arXiv 2025*. [\[paper\]](https://arxiv.org/abs/2505.16322)
+- W. Koh, W. Oh, J. Jang, M. Lee, **H. Kim**, A. Y. Kim, J. Kim, J. Lee, T. Kim, S.-Y. Yun, "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners," *NeurIPS 2025*. [\[paper\]](https://arxiv.org/abs/2505.16322)
 
 ---
 
